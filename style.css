@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+#p1 {
+    padding-left: 500px;
+    padding-right: 500px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#heading {
+    color: red;
+}
+
+#code_ {
+    color: red;
+}
+
+#p2 {
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 15px;
+}
